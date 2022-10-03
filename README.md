@@ -1,6 +1,6 @@
 # Arduino for pet food
 
-Porblema abordado
+Problema abordado
 (Falta de tempo ou esquecer de alimentar seus pets)
  
  Comedouro:
